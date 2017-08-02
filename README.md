@@ -1,0 +1,1 @@
+# inkscape-simple-icons
